@@ -1,7 +1,7 @@
 5. # 情感管理-包含家庭和人际关系
 
     5. 家庭
-        1. 每周末负责做饭（ 图片见 [link](https://github.com/leoloo0510/Emotion/tree/master/pic)
+        1. 每周末负责做饭（ 图片见 [link](https://github.com/leoloo0510/Emotion/tree/master/pic)）
             - 201708xx
             - 20170806-带鱼，油浇基围虾
               ![image](https://github.com/leoloo0510/Emotion/blob/master/pic/20170806.JPG)
